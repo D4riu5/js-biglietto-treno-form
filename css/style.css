@@ -1,0 +1,19 @@
+input, 
+button,
+select {
+    border-radius: 6px;
+    border: none;
+}
+
+input,
+select {
+    display: block;
+}
+
+#your-ticket{
+    display: none;
+}
+
+#age-range{
+    padding: 3px;
+}
